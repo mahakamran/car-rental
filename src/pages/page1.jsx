@@ -53,7 +53,9 @@ const Page1 = () => {
         <div className='mt-4 sm:mt-[20px] sm:ml-[500px]   flex flex-col sm:flex-row gap-4'>
           <input className='lg:w-[85%] sm:w-[30%] w-50% lg:h-[40px] h-[35px] border-2 border-gray-400 placeholder:text-gray-600 pl-4 font-semibold' type='text' placeholder='-- -- --' />
           <input className='lg:w-[85%] sm:w-[30%] w-50% lg:h-[40px] h-[35px] border-2 border-gray-400 placeholder:text-gray-600 pl-4 font-semibold sm:ml-7' type='text' placeholder='AC Car' />
-          <input className='lg:w-[85%]  w-50% sm:w-[30%] lg:h-[40px] h-[35px] border-2 border-gray-300 placeholder:text-gray-300 pl-4 sm:pl-20 bg-[#000b64] text-white font-semibold sm:ml-7' type='text' placeholder='Find Car' />
+          <button className='lg:w-[85%]   rounded-[5px] w-50% sm:w-[30%] lg:h-[40px] h-[35px]  placeholder:text-gray-300 pl-4 sm:pl-20 bg-[#000b64] text-white font-semibold sm:ml-7' type='text' placeholder='Find Car' >
+            Find Car
+          </button>
         </div>
       </div>
 
