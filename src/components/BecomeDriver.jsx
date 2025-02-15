@@ -5,7 +5,7 @@ import car from '../images/toyota-offer-2 (1).png';
 const BecomeDriver = () => {
   return (
     <section 
-      className="relative lg:w-[1610px]  w-[440px] ml-[-105px] h-[340px] bg-cover bg-center" 
+      className="relative lg:w-[1610px]  w-[480px] ml-[-105px] h-[340px] bg-cover bg-center" 
       style={{ backgroundImage: `url(${background})` }}
     >
       {/* Blue Overlay */}
